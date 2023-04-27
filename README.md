@@ -9,6 +9,8 @@ This tool can be inaccurate at times because it does not use the TikTok api. It 
 
 This tool is used for educational purposes only. 
 
+To check each nickname it spends ```5``` seconds to not be blocked
+
 ## Picture
 ![Picture](https://i.ibb.co/hMHnQ4R/Screenshot-20.png)
 
