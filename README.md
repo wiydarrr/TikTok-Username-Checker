@@ -1,4 +1,4 @@
-# TikTok-Rare-Username-Checker
+# TikTok-Rare-Username-Checker PATCHED
 ## A simple asynchronous tool that checks if a TikTok username is taken or not
 
 ## About
@@ -10,12 +10,12 @@ This tool can be inaccurate at times because it does not use the TikTok api. It 
 This tool is used for educational purposes only. 
 
 ## Picture
-![Picture](https://i.ibb.co/Nxv536d/Screenshot-156.png)
+![Picture](https://ibb.co/8B2RvfD)
 
 ## How to use
 - Python must be installed
 
-1. If you dont have python installed, download python 3.7.6
+1. If you dont have python installed, download python last version
 and make sure you click on the 'ADD TO PATH' option during
 the installation.
 
