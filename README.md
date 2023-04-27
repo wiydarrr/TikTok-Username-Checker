@@ -10,7 +10,7 @@ This tool can be inaccurate at times because it does not use the TikTok api. It 
 This tool is used for educational purposes only. 
 
 ## Picture
-![Picture](https://ibb.co/8B2RvfD)
+![Picture](https://i.ibb.co/hMHnQ4R/Screenshot-20.png)
 
 ## How to use
 - Python must be installed
